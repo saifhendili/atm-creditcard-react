@@ -1,0 +1,24 @@
+.containner{
+  position: relative;
+}
+.name{
+  position: absolute;
+  top:156px;
+  left:434px;
+  color: white;
+  font-size: 20px;
+}
+.card{
+  position: absolute;
+  top:256px;
+  left:310px;
+  color: white;
+  font-size: 20px;
+}
+.mm{
+  position: absolute;
+  top:290px;
+  left:533px;
+  color: white;
+  font-size: 20px;
+}
